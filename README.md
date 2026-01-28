@@ -1,3 +1,8 @@
+### Progress Update
+- Completed Pandas practice & challenges
+- Solved all pending problems (CodeChef)
+- Prepared for Mini EDA project
+
 # Pandas Practice 🐼
 
 This repository contains my hands-on practice with **Pandas** for data analysis and AI/ML foundations.
