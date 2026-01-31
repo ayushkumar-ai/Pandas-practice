@@ -42,7 +42,23 @@ This section documents my learning of *Matplotlib* for data visualization, which
   - Visualizations
   - Key observations
   - Conclusion
-    
+- `Mini Visualization Project (Matplotlib)`
+  -This mini project demonstrates the use of *Matplotlib* for visualizing and understanding data patterns.
+
+-`Project Details`
+- Dataset: Iris (sklearn)
+- Visualizations:
+  - Line plot
+  - Histogram
+  - Scatter plot
+  - Bar chart
+  - Subplots
+- Focused on feature distributions and relationships
+
+### Key Takeaways
+- Petal features show clearer separation between species.
+- Scatter plots reveal strong relationships between features.
+- Visualization helps in identifying important features for machine learning models.    
 ## Tools
 - Python
 - Pandas
